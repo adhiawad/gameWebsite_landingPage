@@ -32,9 +32,6 @@ Build a visually captivating website inspired by **JavaScript Mastery YouTube ch
 
 ---
 
-## 📺 Project Reference
-
-This project is based on the tutorial from **JavaScript Mastery YouTube Channel**. Watch the full tutorial here: [JavaScript Mastery - Zentry-Inspired Website](https://www.youtube.com/watch?v=zA9r5zTllx4)
 
 ---
 
@@ -61,6 +58,6 @@ npm start
 
 ---
 
-## 📬 Contact & Community
+## 📬 Contact 
 
-If you have any questions or need support, feel free to reach out or join our community on Discord! 🚀
+If you have any questions or need support, feel free to reach out ! 🚀
